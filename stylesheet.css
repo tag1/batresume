@@ -1,0 +1,41 @@
+body {
+	background-color:black;
+	background-image:url(http://i.imgur.com/MjxdPoH.gif);
+	background-size: 110%;
+}
+#header {
+	background-color:#242424;
+	border-radius: 5px;
+	text-align: center;
+	color:#B2B200;
+	width: 26%;
+	margin-left: 35%;
+}
+#content {
+	background-color: #242424;
+	border-radius: 5px;
+	color: #b2b200;
+	width: 25.5%;
+	padding-left: .5%;
+	margin-left: 35%;
+}
+#contact {
+	background-color: #242424;
+	border-radius: 5px;
+	color: #b2b200;
+	width: 26%;
+	margin-left: 35%;
+	text-align: center;
+}
+#footer {
+	background-color: #242424;
+	border-radius: 5px;
+	color: #B2B200;
+	clear: both;
+	width: 26%;
+	margin-left: 35%;
+	text-align: center;
+}
+#right {
+	float: right;
+}
